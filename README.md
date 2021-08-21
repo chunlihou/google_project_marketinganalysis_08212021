@@ -1,2 +1,4 @@
-# google_project_marketinganalysis_08212021
-Google - Project - Marketing Analysis - 08212021
+# ABOUT
+
+- Google - Project - Marketing Analysis - 08212021
+- Published: https://rpubs.com/cxh190001/800923
